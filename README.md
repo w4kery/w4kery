@@ -38,7 +38,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... continuously enhancing my knowledge about Cyber Security.
-- 🌱 I’m currently learning ... and studying for the Comptia Cysa
+- 🌱 I’m currently learning ... and studying for the Comptia Cysa+
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...  I used to be a professional e-sports gamer for Counter-Strike.
 -->
