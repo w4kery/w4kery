@@ -32,13 +32,9 @@
 
 [linkedin]: https://linkedin.com/in/briantorrespsych/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... continuously enhancing my knowledge about Cyber Security.
 - 🌱 I’m currently learning ... and studying for the Comptia Cysa+
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...  I used to be a professional e-sports gamer for Counter-Strike.
--->
+
