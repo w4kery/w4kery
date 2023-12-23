@@ -24,14 +24,15 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2> 🤳 Connect with me:</h2>
+## 🤳 Connect with me:
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [linkedin]: https://linkedin.com/in/briantorrespsych/
 
-<h2> More about me:</h2>
-- 🔭 I’m currently working on ... continuously enhancing my knowledge about Cyber Security.
-- 🌱 I’m currently learning ... and studying for the Comptia Cysa+
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...  I used to be a professional e-sports gamer for Counter-Strike.
+## More about me:
+- 🔭 I’m currently working on continuously enhancing my knowledge about Cyber Security.
+- 🌱 I’m currently learning and studying for the CompTIA CySA+.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I used to be a professional e-sports gamer for Counter-Strike.
+
 
