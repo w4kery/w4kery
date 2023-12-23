@@ -28,9 +28,8 @@
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/briantorrespsych/)
 
-
-
-- ## More about me:
+<br>
+## More about me:
 - 🔭 I’m currently working on continuously enhancing my knowledge about Cyber Security.
 - 🌱 I’m currently learning and studying for the CompTIA CySA+.
 - 😄 Pronouns: He/Him
