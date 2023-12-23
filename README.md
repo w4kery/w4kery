@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brian! <br/><a href="https://github.com/w4kery">Programmer</a>, <a href="https://www.linkedin.com/in/briantorrespsych/">Cybersecurity Professional</a>
+<h1>Hi, I'm Brian! <br/><a href="https://github.com/w4kery">Programmer</a> & <a href="https://www.linkedin.com/in/briantorrespsych/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
