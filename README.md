@@ -30,7 +30,7 @@
 
 
 
-## More about me:
+- ## More about me:
 - 🔭 I’m currently working on continuously enhancing my knowledge about Cyber Security.
 - 🌱 I’m currently learning and studying for the CompTIA CySA+.
 - 😄 Pronouns: He/Him
