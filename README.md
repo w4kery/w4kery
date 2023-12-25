@@ -26,7 +26,7 @@
 
 <h2>🕵🏼‍♂️ CyberSec - Podcasts, News, and Updates</h2>
 
-- [Darknet Diaries](http://www.darknetdiaries.com) <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.darknetdiaries.com&size=16" alt="favicon" width="16" height="16">
+<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.darknetdiaries.com&size=16" alt="favicon" width="16" height="16"> [Darknet Diaries](http://www.darknetdiaries.com) 
 
 - [CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast/)
 - [Krebs on Security](https://krebsonsecurity.com/)
