@@ -24,8 +24,8 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2>🕵🏼‍♂️ CyberSec Chronicles: Podcasts, News, and Updates"</h2>
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+<h2>🕵🏼‍♂️ CyberSec - Podcasts, News, and Updates</h2>
+- [Darknet Diaries]<img height="16" width="16" src='https://icons.duckduckgo.com/ip3/www.google.com.ico' />(https://darknetdiaries.com/)
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
