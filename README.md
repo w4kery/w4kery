@@ -27,6 +27,7 @@
 <h2>🕵🏼‍♂️ CyberSec - Podcasts, News, and Updates</h2>
 
 - [Darknet Diaries](https://darknetdiaries.com/)
+- [CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast/)
 
 ## 🤳 Connect with me:
 
