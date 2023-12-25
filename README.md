@@ -25,9 +25,8 @@
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2>🕵🏼‍♂️ CyberSec - Podcasts, News, and Updates</h2>
+
 - [Darknet Diaries](https://darknetdiaries.com/)
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 ## 🤳 Connect with me:
 
