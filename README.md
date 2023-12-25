@@ -25,10 +25,8 @@
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2>🕵🏼‍♂️ CyberSec - Podcasts, News, and Updates</h2>
-
-![favicon](https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.darknetdiaries.com&size=16) [Darknet Diaries](http://www.darknetdiaries.com)
-
-![favicon](https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.cyberwire.com&size=16) [CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast)
+- (https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.darknetdiaries.com&size=16) [Darknet Diaries](http://www.darknetdiaries.com)
+- (https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.cyberwire.com&size=16) [CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast)
 
 
 - [Krebs on Security](https://krebsonsecurity.com/)
