@@ -18,10 +18,10 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
+- [Best Free Cyber Security Courses for 2023: Top 5 Free Cybersecurity Certification Programs in 2023](https://www.youtube.com/watch?v=p4Cfn4RemBc)
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [FASTEST way to become a Cyber Analyst and ACTUALLY get a job – UPDATED (2023)](https://www.youtube.com/watch?v=DRJic8vCodE)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2>🕵🏼‍♂️ CyberSec - Podcasts, News, and Updates</h2>
