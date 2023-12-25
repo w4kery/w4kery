@@ -16,13 +16,13 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/w4kery/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Popular YouTubers </h2>
 
-- [Best Free Cyber Security Courses for 2023: Top 5 Free Cybersecurity Certification Programs in 2023](https://www.youtube.com/watch?v=p4Cfn4RemBc)
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [FASTEST way to become a Cyber Analyst and ACTUALLY get a job – UPDATED (2023)](https://www.youtube.com/watch?v=DRJic8vCodE)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [UnixGuy | Cyber Security](https://www.youtube.com/@UnixGuy)
+- [Sandra - Tech & Lifestyle](https://www.youtube.com/@WithSandra/videos)
+- [Josh Madakor](https://www.youtube.com/@JoshMadakor)
+- [Professor Messer](https://www.youtube.com/c/professormesser)
+- [Programming with Mosh](https://www.youtube.com/@programmingwithmosh)
 
 <h2>🕵🏼‍♂️ CyberSec - Podcasts, News, and Updates</h2>
 
