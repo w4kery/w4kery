@@ -28,6 +28,9 @@
 
 - [Darknet Diaries](https://darknetdiaries.com/)
 - [CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast/)
+- [Krebs on Security](https://krebsonsecurity.com/)
+- [CISA](https://www.cisa.gov/)
+- [Security Week](https://www.securityweek.com/)
 
 ## 🤳 Connect with me:
 
