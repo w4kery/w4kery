@@ -30,7 +30,7 @@
 - <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://thecyberwire.com/podcasts/daily-podcast&size=16" alt="favicon" width="16" height="16"> [CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast)
 - <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://krebsonsecurity.com/&size=16" alt="favicon" width="16" height="16"> [Krebs on Security](https://krebsonsecurity.com/)
 - <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.cisa.gov/&size=16" alt="favicon" width="16" height="16"> [CISA](https://www.cisa.gov/)
-- [Security Week](https://www.securityweek.com/)
+- <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.securityweek.com/&size=16" alt="favicon" width="16" height="16"> [Security Week](https://www.securityweek.com/)
 
 ## 🤳 Connect with me:
 
