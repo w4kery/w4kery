@@ -19,7 +19,7 @@
 <h2>💼 Projects </h2>
 
 - [Building a SOC + Honeynet in Azure w/ Live Traffic](https://github.com/w4kery/Azure-SOC)
-- [Design a phishing email simulation](https://github.com/w4kery/Azure-SOC)
+- [Design a phishing email simulation](https://github.com/w4kery/PhishingSim/)
 - [Interpret phishing simulation results to create a training presentation](https://github.com/w4kery/Azure-SOC)<br> 
 
 <h2>📺 Popular YouTubers </h2>
