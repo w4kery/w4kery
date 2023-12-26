@@ -18,9 +18,11 @@
 
 <h2>💼 Projects </h2>
 
-- [Building a SOC + Honeynet in Azure w/ Live Traffic](https://github.com/w4kery/Azure-SOC)
-- [Design a phishing email simulation](https://github.com/w4kery/PhishingSim/)
-- [Interpret phishing simulation results to create a training presentation](https://github.com/w4kery/Phish-Presentation)<br> 
+<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://azure.microsoft.com&size=16" alt="favicon" width="16" height="16">  [Building a SOC + Honeynet in Azure w/ Live Traffic](https://github.com/w4kery/Azure-SOC)
+
+<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.mastercard.us&size=16" alt="favicon" width="16" height="16">  [Mastercard - Improve Phishing Email Project](https://github.com/w4kery/PhishingSim/)
+
+<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.mastercard.us&size=16" alt="favicon" width="16" height="16">  [Mastercard - Interpret phishing simulation results to create a training presentation](https://github.com/w4kery/Phish-Presentation)<br> 
 
 <h2>📺 Popular YouTubers </h2>
 
