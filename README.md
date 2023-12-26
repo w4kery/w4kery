@@ -24,7 +24,7 @@
 
 <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.mastercard.us&size=16" alt="favicon" width="16" height="16">  [Mastercard - Interpret phishing simulation results to create a training presentation](https://github.com/w4kery/Phish-Presentation)<br> 
 
-<h2>📺 Popular YouTubers </h2>
+<h2>📺 Popular InfoSec/IT YouTubers </h2>
 
 - [UnixGuy | Cyber Security](https://www.youtube.com/@UnixGuy)
 - [Sandra - Tech & Lifestyle](https://www.youtube.com/@WithSandra/videos)
