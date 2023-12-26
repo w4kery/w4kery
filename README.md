@@ -17,6 +17,7 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/w4kery/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>💼 Projects </h2>
+
 - [Building a SOC + Honeynet in Azure w/ Live Traffic](https://github.com/w4kery/Azure-SOC) 
 
 <h2>📺 Popular YouTubers </h2>
