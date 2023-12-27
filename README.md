@@ -26,7 +26,11 @@
 
 <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.aig.com/home&size=16" alt="favicon" width="16" height="16">  [AIG - Responding to a zero-day vulnerability](https://github.com/w4kery/Respond-ZeroDay)
 
-<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.aig.com/home&size=16" alt="favicon" width="16" height="16">  [AIG - Bypassing ransomware with Python BruteForce](https://github.com/w4kery/PyBypassBF)<br> 
+<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.aig.com/home&size=16" alt="favicon" width="16" height="16">  [AIG - Bypassing ransomware with Python BruteForce](https://github.com/w4kery/PyBypassBF)
+
+<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://datacom.com/nz/en&size=16" alt="favicon" width="16" height="16">  [DATACOM - APT breach: Analysis and Posture update on information security](https://github.com/w4kery/APT_Sec_Posture)
+
+<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://datacom.com/nz/en&size=16" alt="favicon" width="16" height="16">  [DATACOM - Bypassing ransomware with Python BruteForce](https://github.com/w4kery/PyBypassBF)<br> 
 
 <h2>📺 Popular InfoSec/IT YouTubers </h2>
 
