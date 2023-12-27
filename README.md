@@ -22,7 +22,11 @@
 
 <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.mastercard.us&size=16" alt="favicon" width="16" height="16">  [Mastercard - Improve Phishing Email Project](https://github.com/w4kery/PhishingSim/)
 
-<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.mastercard.us&size=16" alt="favicon" width="16" height="16">  [Mastercard - Interpret phishing simulation results to create a training presentation](https://github.com/w4kery/Phish-Presentation)<br> 
+<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.mastercard.us&size=16" alt="favicon" width="16" height="16">  [Mastercard - Interpret phishing simulation results to create a training presentation](https://github.com/w4kery/Phish-Presentation)
+
+<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.aig.com/home&size=16" alt="favicon" width="16" height="16">  [AIG - Responding to a zero-day vulnerability](https://github.com/w4kery/Respond-ZeroDay)
+
+<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.aig.com/home&size=16" alt="favicon" width="16" height="16">  [AIG - Bypassing ransomware w/ Python BruteForce](https://github.com/w4kery/Phish-Presentation)<br> 
 
 <h2>📺 Popular InfoSec/IT YouTubers </h2>
 
