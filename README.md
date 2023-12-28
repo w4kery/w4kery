@@ -30,7 +30,7 @@
 
 <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://datacom.com/nz/en&size=16" alt="favicon" width="16" height="16">  [DATACOM - APT breach: Analysis and Posture update on information security](https://github.com/w4kery/APT_Sec_Posture)
 
-<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://datacom.com/nz/en&size=16" alt="favicon" width="16" height="16">  [DATACOM - Bypassing ransomware with Python BruteForce](https://github.com/w4kery/PyBypassBF)<br> 
+<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://datacom.com/nz/en&size=16" alt="favicon" width="16" height="16">  [DATACOM - Cybersecurity Risk Assessment](https://github.com/w4kery/Risk_assessment)<br> 
 
 <h2>📺 Popular InfoSec/IT YouTubers </h2>
 
