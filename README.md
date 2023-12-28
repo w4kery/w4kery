@@ -28,7 +28,7 @@
 
 <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.aig.com/home&size=16" alt="favicon" width="16" height="16">  [AIG - Bypassing ransomware with Python BruteForce](https://github.com/w4kery/PyBypassBF)
 
-<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://datacom.com/nz/en&size=16" alt="favicon" width="16" height="16">  [DATACOM - APT breach: Analysis and Posture update on information security](https://github.com/w4kery/APT_Sec_Posture)
+<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://datacom.com/nz/en&size=16" alt="favicon" width="16" height="16">  [DATACOM - APT breach: Analysis and Posture Update on Information Security](https://github.com/w4kery/APT_Sec_Posture)
 
 <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://datacom.com/nz/en&size=16" alt="favicon" width="16" height="16">  [DATACOM - Cybersecurity Risk Assessment](https://github.com/w4kery/Risk_assessment)
 
