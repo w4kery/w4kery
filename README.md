@@ -15,6 +15,8 @@
   - [Keylogger with Email Capability](https://github.com/w4kery/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/w4kery/Package-Delivery-Pathfinding-Algorithm)
+- <b>SQL</b>
+  - [SQL Basics for SOC Analysts](https://github.com/w4kery/SQL_SOC)
 
 <h2>💼 Projects </h2>
 
